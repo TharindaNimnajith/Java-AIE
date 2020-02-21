@@ -1,0 +1,30 @@
+public class Marks {
+    String name;
+    int[] marks;
+    double avg;
+
+    public static void main(String args[]) {
+        Marks m1 = new Marks("Tharinda", 85, 86, 87);
+        m1.calAvg();
+    }
+
+    public Marks() {
+        name = "";
+        marks[0] = 0;
+        marks[1] = 0;
+        marks[2] = 0;
+        avg = 0;
+    }
+
+    public Marks(String cname, int mark1, int mark2, int mark3) {
+        name = cname;
+        mark[0] = mark1;
+        mark[1] = mark2;
+        mark[2] = mark3;
+    }
+
+    public calAvg() {
+        avg = (marks[0] + marks[1] + marks[2]) / 3.0;
+        System.out.println("Average: " +avg);
+    }
+}

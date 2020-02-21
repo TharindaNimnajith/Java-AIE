@@ -1,0 +1,9 @@
+body {
+	background: #E2EDDC;
+}
+
+h1, p {
+	color: white;
+	background: red;
+	padding: 10px;
+}

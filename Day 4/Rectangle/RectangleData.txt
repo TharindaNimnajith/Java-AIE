@@ -1,0 +1,3 @@
+Rectangle: 1 Length: 5 Width: 1 Area: 5 Perimeter: 12
+Rectangle: 2 Length: 5 Width: 15 Area: 75 Perimeter: 40
+Rectangle: 3 Length: 25 Width: 20 Area: 500 Perimeter: 90

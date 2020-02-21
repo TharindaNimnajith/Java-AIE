@@ -1,0 +1,57 @@
+															 Java Programming Language
+
+																  Introduction
+
+Java is a high level programming language, designed in the early 1990s and released in 1995 by the Sun Microsystems, currently owned by Oracle.
+First Java was called "Oak" and later the name changed into "Java" which means coffee.
+Java is very popular that more than 3 billion devices run Java.
+Java has loads of frameworks, libraries, IDEs (Integrated Development Environments: IntelliJ, Netbeans, Eclipse etc.) and development tools.
+As a full OOP language, Java can be considered as C++ (not a full OOP language) without dynamic memory allocation & pointers.
+
+Java and JavaScript (JS) are two completely different programming languages. Here are some of the differences / similarities of the 2 languages:-
+   1. Java creates a program that runs in a virtual machine or a browser. JS creates a program that runs only on a browser or a server (But now JS
+      supports desktop applications as well).
+   2. Java code needs to be compiled. JS code is all in text.
+   3. Java is a OOP language. JS is a OOP scripting language.
+   4. Java supports both client and server side development. JS used to only support client side development but now JS also support both ends.
+
+Features of Java:-
+   1. "Write Once, Run Anywhere" - platform / OS (Operating System) independent (MacOS, Windows, Android, Linux, Unix etc.) - Unlike many other
+      programming languages, including C & C++, when Java is compiled, it is not compiled into platform specific machine, rather into platform
+	  independent byte code. This byte code can be distributed over the web and interpreted by JVM (Java Virtual Machine) on whichever platform it
+	  is being run on.
+   2. OOP (Object Oriented Programming) language (Everything is an object and can easily be extended since it is based on the object model)
+   3. Robust, strong & powerful (Eliminate error prone situations by emphasizing mainly on compile time error checking and runtime checking)
+   4. Architecture-neutral (Java compiler generates an architecture-neutral object file format, which makes the compiled code executable on many
+      processors, with the presence of Java runtime system)
+   5. Portable (Being architecture-neutral and having no implementation dependent aspects of the specification makes Java portable. Java compiler
+      is written in ANCI C with a clean portability boundary, which is a POSIX subset.)
+   6. Multithreading (Ability to write programs that can perform many tasks simultaniously, which allows developers to construct interactive
+      applications that run smoothly)
+   7. Simple (Easy to learn if you understand the OOP concepts)
+   8. Secure (Java enables to develop virus-free & tamper-free systems. Authentication techniques are based on public key encryption.)
+   9. Dynamic (Java is considered to be more dynamic than C or C++ since it is designed to adapt to an evolving environment. Java programs can
+      carry extensive amount of run-time information that can be used to verify and resolve accesses to objects on run-time.)
+  10. Distributed (Java is designed for the distributed environment of the internet)
+  11. High Performance (Java enables high performance with the use of Just-In-Time compilers)
+  12. Interpreted (Java byte code is translated on the fly to native machine instructions and is not stored anywhere. The development process is
+      more rapid and analytical since the linking is an incremental and light-weight process.)
+  13. Flexible (Ability to fit the needs of any type of application)
+
+Uses of Java:-
+   1. Java supports IoT (Internet of Things)
+   2. Java simplifies development of real-time software
+   3. Java is used to create web applications
+   4. Google (Creator of Android OS) specifically recommends Java for Android app development (The core of Android operating system, i.e. the linux
+      based kernel and the system libraries are built in C and C++. Android framework and the user interface (UI) of Android is built using Java.)
+   5. Java is used for networking, particularly for data centers that store and transfer web-based data
+   6. Java is widely used for building applications (media players, antivirus applications, enterprise applications like banking applications etc.)
+      and platforms for a number of devices including desktops computers, smartphones, tablets, laptops, car navigation systems, gaming consoles,
+	  blu-ray players, lottery terminals, medical monitering devices and parking meters etc.
+   7. Java SE (Java Standard Edition) - For desktop / standalone applications
+   8. Java ME (Java Mobile / Micro Edition) - For Android / mobile applications
+   9. Java EE (Java Enterprise Edition) - For web / server-side applications
+
+JDK (Java Development Kit) = JRE (Java Runtime Environment) + Java Compiler + etc. --> Made for developers 
+JRE = Runtime libraries + JVM + etc. --> Made for normal users
+
